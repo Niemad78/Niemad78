@@ -98,4 +98,8 @@
   <a href="https://www.linkedin.com/in/damien-mauger-14b283a6/">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <br/>
+  <a href="https://www.malt.fr/profile/damienmauger?overview=true">
+    <img src="https://img.shields.io/badge/malt-FC5656?style=for-the-badge">
+  </a>
 </div>
