@@ -66,6 +66,7 @@
   <img src="https://img.shields.io/badge/commits-457-blue">
 
   <br/>
+  <br/>
 
   <a href="https://www.afmf.fr/" target="_blank">
     <img src="https://www.afmf.fr/logoAFMF.f12ce1de.png" width="100px">
@@ -74,27 +75,6 @@
   <br/>
 
   <img src="https://img.shields.io/badge/commits-147-blue">
-</div>
-
-<br/>
-<br/>
-
-<h1 align="center">Other experiences</h1>
-
-<div align="center">
-  <img src="https://res.cloudinary.com/wildcodeschool/image/upload/c_fill,h_50/v1/static/irjoy97aq0eol8bf6959">
-
-  <br/>
-
-  <p>Teaching React & Node for 2 months in March 2022</p>
-
-  <br />
-
-  <img src="https://soundcast.fm/assets/images/logo_soundcast_blue.png">
-
-  <br/>
-
-  <p>Freelance job for 2 months in October 2021</p>
 </div>
 
 <br/>
