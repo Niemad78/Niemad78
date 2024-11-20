@@ -62,10 +62,6 @@
   </a>
 
   <br/>
-
-  <img src="https://img.shields.io/badge/commits-457-blue">
-
-  <br/>
   <br/>
 
   <a href="https://www.afmf.fr/" target="_blank">
@@ -73,8 +69,11 @@
   </a>
 
   <br/>
+  <br/>
 
-  <img src="https://img.shields.io/badge/commits-147-blue">
+  <a href="https://ledonjondehoudan.fr/" target="_blank">
+  <img src="https://ledonjondehoudan.fr/_next/image?url=%2Flogo-donjon.png&w=64&q=75" width="100px">
+  </a>
 </div>
 
 <br/>
